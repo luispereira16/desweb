@@ -1,6 +1,6 @@
 # Repositório de Luis
 
-## Conteúdo do repositóriov
+## Conteúdo do repositório
 
-1. COnteúdo 1
-2. COnteúdo 2
+1. Conteúdo 1
+2. Conteúdo 2
